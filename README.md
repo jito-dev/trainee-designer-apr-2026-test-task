@@ -42,11 +42,11 @@ You need to show the key mobile app screens of a **Calories Calculator** mobile 
 — We expect the ability to provide the creative part: Branding / Stylescapes.  
 — We expect the ability to systematically convert the creative direction into a tangible result: Design System and Screens.  
 — We expect the ability to jump into a new design workflow: AI-native design.  
-— We do not expect, and moreover want to exclude, manual work as much as possible.  
 — We expect the ability to reasonably prove and explain your ideas.
 
 ## ❌ What We Do Not Expect
 
+— We do not expect, and moreover want to exclude, manual work as much as possible.  
 — Perfect or ideal work.  
 — Fully manual work created by hand in Figma.  
 — Perfect English.

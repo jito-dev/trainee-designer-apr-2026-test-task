@@ -52,7 +52,8 @@ You need to show the key mobile app screens of a **Calories Calculator** mobile 
 — Perfect English.
 
 ## ℹ️ P.S.  
-Samples of stylescapes provided by our team for reference:
+Example stylescapes provided by our team for reference only.  
+You do **not** need to use them in your work:
 ![Stylescape 1](soccer-related.png)
 ![Stylescape 2](the-digital-archive.png)
 ![Stylescape 3](the-gallery.png)
